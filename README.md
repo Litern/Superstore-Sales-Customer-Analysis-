@@ -55,4 +55,3 @@ Based directly on the findings in the analysis, the following actions are recomm
 * **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn)
 * **Skills:** Combining and validating datasets, Data Cleaning (data types, inconsistent values, invalid entries, missing values, duplicates), Exploratory Data Analysis (EDA), Data Visualization, and Business Analytics.
 
-> **Note:** Make sure the file paths in the notebook point to the `data/` folder of the cloned project (for example `data/Customers- Dataset.csv`).
