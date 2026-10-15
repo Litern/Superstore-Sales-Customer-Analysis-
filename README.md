@@ -33,10 +33,10 @@ After combining and cleaning, the final dataset contains **9,931 order lines acr
 ![Profit by Sub-Category](images/Profit_by_subcategory.png)
 
 ### 2. Discount Level vs. Profit
-![Discount vs Profit](Images/discount_vs_profit.png)
+![Discount vs Profit](images/Discount_vs_profit.png)
 
 ### 3. Region Performance
-![Region Performance](images/Salea & Profit by Region.png)
+![Region Performance](https://github.com/Litern/Superstore-Sales-Customer-Analysis-/blob/main/images/Salea%20%26%20Profit%20by%20Region.png)
 
 ### 4. Monthly Seasonality
 ![Monthly Seasonality](images/Sales_trend_over_time.png)
